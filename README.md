@@ -1,0 +1,1 @@
+This project allows users to draw a digit (0–9) on a canvas, and then predicts the digit using a trained machine learning model. It combines computer vision, user interface design, and AI to create an interactive digit recognition tool.
